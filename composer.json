@@ -1,0 +1,8 @@
+{
+    "name": "cim/bunny-storage",
+    "description": "Bunny CDN storage api",
+    "license" : "MIT",
+    "autoload": {
+            "files": ["src/bunny-cdn-storage/php"]
+    } 
+}
